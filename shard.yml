@@ -1,19 +1,19 @@
 name: ksuid
-version: 0.5.1
+version: 0.5.2
 
 authors:
   - Sijawusz Pur Rahnama <sija@sija.pl>
 
 dependencies:
   base62:
-    github: Sija/base62.cr
-    version: ~> 0.1.2
+    github: janeptrv/base62.cr
+    version: ~> 0.1.3
 
 development_dependencies:
   ameba:
     github: crystal-ameba/ameba
     version: ~> 0.14.0
 
-crystal: 0.27.0
+crystal: 1.0.0
 
 license: MIT
